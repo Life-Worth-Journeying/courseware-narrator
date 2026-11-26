@@ -18,7 +18,6 @@
 [下载 课件讲解助手_v5.2.3_源码核心.zip](https://aka.doubaocdn.com/s/4WAmfsoTFt)
 
 - 只包含可运行源码：`app.py`、`core/`、`ui/`、`assets/` 和打包脚本。
-- 不包含任何个人配置、作品、备份、日志或 API Key。
 - 需要 Python 3.12；解压后运行 `install_deps.bat`，再双击 `启动.bat`。
 - 打包成 exe：运行 `build_exe.bat`。
 - SHA256：`3B534E155C8FBEB0DD3290B770D8E7580DFE0937F45668379B8705E2FBAB3F79`
@@ -29,15 +28,8 @@
 
 - 主程序 `课件讲解助手.exe`
 - 运行库 `_internal/`
-- 首次导出 Word 时才解压的 `bin/pandoc.exe.gz`
+- 首次导出 Word 时才解压的 `bin/pandoc.exe.gz
 - 使用说明和首次使用提示
-
-不包含：
-
-- 任何 API Key、`settings.json`、模型渠道配置
-- 任何个人作品、课件、截图、笔记、备份、日志
-- 任何用户路径、账号信息或历史记录
-
 ## API Key 说明
 
 - 压缩包里**没有**附带任何 API Key，也没有预填的配置文件。
