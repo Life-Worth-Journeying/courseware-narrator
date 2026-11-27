@@ -21,13 +21,13 @@
 
 ### 便携核心版 v5.2.3（约 109 MB）
 
-[下载 课件讲解助手_v5.2.3_核心.zip](https://aka.doubaocdn.com/s/GfV6s9bMtf)
+[下载 课件讲解助手_v5.2.3_核心.zip](https://aka.doubaocdn.com/s/4oX2OVY3cY)
 
 解压整个文件夹，双击 `课件讲解助手.exe` 即可使用。首次打开会在程序目录下自动创建 `配置` 和 `作品`，不会覆盖已有文件；不需要安装 Python，也不需要单独安装 pandoc。
 
 ### 源码核心版 v5.2.3（约 0.8 MB）
 
-[下载 课件讲解助手_v5.2.3_源码核心.zip](https://aka.doubaocdn.com/s/DkUb8cD4Ye)
+[下载 课件讲解助手_v5.2.3_源码核心.zip](https://aka.doubaocdn.com/s/4jzSSgLpc0)
 
 只包含 `app.py`、`core/`、`ui/`、`assets/` 和打包脚本，不含个人配置、作品、备份、日志或 API Key。需要 Python 3.12；解压后运行 `install_deps.bat`，再双击 `启动.bat`。
 
